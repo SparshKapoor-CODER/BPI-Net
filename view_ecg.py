@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 # Configuration – adapt these paths to match your folder structure
 # =============================================================================
 # The root folder that contains both 'files' and 'metadata.csv'
-base_dir = r"D:\BPI Net\brugada-huca-12-lead-ecg-recordings-for-the-study-of-brugada-syndrome-1.0.0\brugada-huca-12-lead-ecg-recordings-for-the-study-of-brugada-syndrome-1.0.0"
+base_dir = r"D:\BPI-Net\brugada-huca-12-lead-ecg-recordings-for-the-study-of-brugada-syndrome-1.0.0\brugada-huca-12-lead-ecg-recordings-for-the-study-of-brugada-syndrome-1.0.0"
 data_dir = os.path.join(base_dir, "files")
 metadata_path = os.path.join(base_dir, "metadata.csv")
 
