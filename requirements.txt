@@ -1,3 +1,11 @@
 pandas
 wfdb
 matplotlib
+torch
+torchvision
+torchaudio
+numpy
+scikit-learn
+tqdm
+joblib
+vitaldb
