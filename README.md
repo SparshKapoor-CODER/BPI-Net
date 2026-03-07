@@ -1,5 +1,5 @@
 # BPI-Net
-## Sparsh
+
 
 A deep learning pipeline that estimates **Blood Pressure** from **PPG waveforms** and generates **12-lead ECG** signals conditioned on those BP values.
 
