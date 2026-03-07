@@ -90,7 +90,12 @@ python view_ecg.py
 ```
 
 ---
+## Contributors
 
+- Sparsh Kapoor ([`@SparshKapoor-CODER`](https://github.com/SparshKapoor-CODER))
+- Drishti Chopra ([`@Drishti-tech2507`](https://github.com/Drishti-tech2507))
+
+---
 ## Requirements
 
 - Python 3.10+
